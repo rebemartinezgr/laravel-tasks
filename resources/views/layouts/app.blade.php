@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                    <p>APP Tareas: Rebeca xMartínez - 50766848Y Daniel Hernández - 02758969G Evelyn Bayas - 0919107938 Teo Tovar - 28950042B</p>
                 </a>
             </div>
 
